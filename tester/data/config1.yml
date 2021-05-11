@@ -1,0 +1,7 @@
+num_procs: '1'
+proc_duration: '5'
+wget_url: 'google.com'
+file_path: '/tmp/test.txt'
+actions:
+  - write
+  - fork
